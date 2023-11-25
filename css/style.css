@@ -194,7 +194,7 @@ ul {
 }
 
 .aside .logo a span {
-  font-family: "Whoopass";
+  font-family: "Poppins";
   font-size: 40px;
 }
 
@@ -322,7 +322,7 @@ h3.hello {
 }
 
 h3.hello span {
-  font-family: "Whoopass";
+  font-family: "Poppins";
   font-size: 60px;
   font-weight: 700;
   color: var(--skin-color);
